@@ -1,0 +1,51 @@
+product_id,sku,product_name,category_id,vendor_id,price,product_cost,launch_date,is_active
+1,ELEC-101,True Wireless Bluetooth Earbuds with ANC,1,1,2499.0,1400.0,2024-08-01,1
+2,ELEC-102,4K Ultra-HD Smart Streaming Media Stick,1,6,3999.0,2600.0,2024-08-15,1
+3,ELEC-103,Ergonomic Silent Wireless Optical Mouse,1,6,899.0,450.0,2024-09-01,1
+4,ELEC-104,Fast Charging Power Bank 20000mAh,1,1,1999.0,1100.0,2024-07-20,1
+5,ELEC-105,Mechanical Gaming Keyboard RGB Backlit,1,11,3499.0,2100.0,2024-09-10,1
+6,ELEC-106,Smart Fitness Tracker with SpO2 Monitor,1,11,2999.0,1800.0,2024-08-25,1
+7,ELEC-107,Heavy Bass Portable Waterproof Bluetooth Speaker,1,6,1799.0,950.0,2024-09-15,1
+8,ELEC-108,Dual USB-C 65W GaN Fast Wall Charger,1,1,1499.0,800.0,2024-08-10,1
+9,ELEC-109,Noise Cancelling Over-Ear Studio Headphones,1,6,5499.0,3200.0,2024-07-15,1
+10,ELEC-110,Full HD 1080p Autofocus USB Web Camera,1,11,1899.0,1050.0,2024-09-20,1
+11,APPR-201,Pure Cotton Classic Slim Fit Formal Shirt,2,2,1299.0,650.0,2024-05-10,1
+12,APPR-202,Breathable Activewear Gym Track Pants,2,2,999.0,480.0,2024-06-01,1
+13,APPR-203,Traditional Chanderi Silk Embroidered Kurti,2,7,1899.0,950.0,2024-06-20,1
+14,APPR-204,Stretchable Indigo Denim Jeans Regular Fit,2,12,1699.0,850.0,2024-07-05,1
+15,APPR-205,Round Neck Graphic Print Cotton T-Shirt,2,2,499.0,220.0,2024-05-25,1
+16,APPR-206,Handwoven Khadi Cotton Nehru Jacket,2,7,2199.0,1100.0,2024-08-01,1
+17,APPR-207,Lightweight Fleece Hooded Winter Sweatshirt,2,12,1499.0,720.0,2024-09-01,1
+18,APPR-208,Ethnic Block Print Anarkali Gown,2,7,2499.0,1300.0,2024-07-18,1
+19,APPR-209,Quick Dry Performance Running Shorts,2,2,699.0,320.0,2024-08-10,1
+20,APPR-210,Soft Viscose Blend Formal Trousers,2,12,1399.0,680.0,2024-09-05,1
+21,HOME-301,Hard Anodised Non-Stick Induction Dosa Tawa,3,8,1199.0,580.0,2024-04-15,1
+22,HOME-302,Stainless Steel Double-Wall Thermal Flask 1L,3,3,899.0,420.0,2024-05-01,1
+23,HOME-303,Tri-Ply Stainless Steel Heavy Bottom Kadai,3,13,2299.0,1200.0,2024-05-20,1
+24,HOME-304,Compact 750W 3-Jar Mixer Grinder,3,8,3199.0,1900.0,2024-06-10,1
+25,HOME-305,BPA-Free Airtight Modular Food Storage Container Set (6 Pcs),3,3,799.0,360.0,2024-06-25,1
+26,HOME-306,Microfibre Spin Mop with Bucket & Wheels,3,3,1399.0,680.0,2024-07-02,1
+27,HOME-307,Pure Cotton 250 TC King Size Bedsheet with Pillow Covers,3,3,1299.0,600.0,2024-07-15,1
+28,HOME-308,Automatic Electric Kettle 1.8 Litre Fast Boil,3,8,849.0,410.0,2024-08-01,1
+29,HOME-309,Handcrafted Sheesham Wood Spice Box with Glass Lid,3,13,999.0,480.0,2024-08-18,1
+30,HOME-310,Multi-Tier Stainless Steel Dish Drying Rack,3,13,1599.0,780.0,2024-09-01,1
+31,CARE-401,Organic Cold Pressed Virgin Coconut Oil 500ml,4,4,399.0,180.0,2024-04-01,1
+32,CARE-402,Vitamin C Radiance Face Serum with Hyaluronic Acid,4,9,699.0,290.0,2024-04-20,1
+33,CARE-403,Ayurvedic Anti-Hair Fall Bhringraj Herbal Shampoo,4,4,499.0,210.0,2024-05-15,1
+34,CARE-404,Deep Cleansing Activated Charcoal Detox Face Wash,4,14,299.0,120.0,2024-06-01,1
+35,CARE-405,Broad Spectrum SPF 50 PA++++ Gel Sunscreen 100g,4,9,549.0,240.0,2024-06-18,1
+36,CARE-406,Nourishing Shea Butter Body Lotion Dry Skin 400ml,4,14,449.0,190.0,2024-07-05,1
+37,CARE-407,Pure Kumkumadi Tailam Miraculous Beauty Ayurvedic Night Oil,4,4,1199.0,520.0,2024-07-25,1
+38,CARE-408,Natural Tea Tree Clarifying Blemish Control Mask,4,9,399.0,160.0,2024-08-10,1
+39,CARE-409,Rejuvenating Rose Water Facial Mist Toner 200ml,4,14,249.0,95.0,2024-08-28,1
+40,CARE-410,Gentle Hydrating Ceramide Moisturizer Sensitive Skin,4,9,599.0,260.0,2024-09-12,1
+41,BOOK-501,Modern Data Analytics with Python & SQL: Applied Handbook,5,5,699.0,320.0,2024-01-15,1
+42,BOOK-502,Gitanjali: Deluxe Collector's Hardbound Edition,5,10,499.0,210.0,2024-02-10,1
+43,BOOK-503,Quantitative Aptitude for Competitive Examinations Guide,5,15,799.0,380.0,2024-03-01,1
+44,BOOK-504,The Psychology of Indian Consumerism & Market Dynamics,5,5,549.0,240.0,2024-04-15,1
+45,BOOK-505,Machine Learning in Practice: Algorithms & Optimization,5,5,899.0,420.0,2024-05-10,1
+46,BOOK-506,Ancient Indian History & Cultural Heritage Compendium,5,10,649.0,290.0,2024-06-05,1
+47,BOOK-507,Object-Oriented Programming with Java & Design Patterns,5,15,749.0,350.0,2024-07-01,1
+48,BOOK-508,Cloud Architecture & Scalable Microservices Manual,5,5,849.0,390.0,2024-08-15,1
+49,BOOK-509,Creative Writing & Narrative Techniques for Modern Authors,5,10,449.0,190.0,2024-09-01,1
+50,BOOK-510,Business Intelligence & Executive Analytics Roadmap,5,15,799.0,360.0,2024-09-18,1

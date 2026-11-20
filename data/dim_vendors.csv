@@ -1,0 +1,16 @@
+vendor_id,vendor_uid,vendor_name,contact_email,city,state,sla_compliance_status,onboarding_date
+1,VEN-001,ApexTech Supplies,support@apextech.in,Noida,Uttar Pradesh,Non-Compliant,2024-03-15
+2,VEN-002,Zenith Apparel Works,orders@zenithapparel.com,Surat,Gujarat,Compliant,2024-04-10
+3,VEN-003,Bharat Living Essentials,sales@bharatliving.in,Bengaluru,Karnataka,Compliant,2024-05-01
+4,VEN-004,Vedic Glow Herbals,care@vedicglow.co.in,Haridwar,Uttarakhand,Compliant,2024-06-20
+5,VEN-005,Shanti Publications,info@shantipublishing.com,Delhi,Delhi,Compliant,2024-01-11
+6,VEN-006,Surya Consumer Electronics,contact@suryatech.in,Noida,Uttar Pradesh,Compliant,2024-07-04
+7,VEN-007,Royal Loom Textiles,service@royalloom.in,Jaipur,Rajasthan,Under Review,2024-08-12
+8,VEN-008,KitchenKing Appliances,ops@kitchenking.in,Mumbai,Maharashtra,Compliant,2024-02-18
+9,VEN-009,AyurVeda Natural Care,hello@ayurvedanaturals.in,Kochi,Kerala,Compliant,2024-09-01
+10,VEN-010,Gyan Ganga Book House,sales@gyanganga.org,Kolkata,West Bengal,Compliant,2024-03-25
+11,VEN-011,NovaTech Digital Gadgets,help@novatechdigital.in,Hyderabad,Telangana,Non-Compliant,2024-10-05
+12,VEN-012,UrbanChic Fast Fashion,support@urbanchic.in,Pune,Maharashtra,Compliant,2024-05-30
+13,VEN-013,DesiRasoi Cookware,contact@desirasoi.in,Ahmedabad,Gujarat,Compliant,2024-06-15
+14,VEN-014,PureHerbs Wellness,care@pureherbswellness.com,Dehradun,Uttarakhand,Compliant,2024-07-22
+15,VEN-015,Pragati Educational Media,editorial@pragatimedias.com,Patna,Bihar,Compliant,2024-04-18

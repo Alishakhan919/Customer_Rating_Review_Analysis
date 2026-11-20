@@ -1,0 +1,22 @@
+# Customer Rating & Review Analysis (CRRA) - Enterprise Dependency Manifest
+# Optimized for Python 3.12+ and Streamlit Community Cloud
+
+# Core Web & Interactive UI Framework
+streamlit>=1.35.0
+plotly>=5.20.0
+
+# Data Processing & Analytical Foundations
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Statistical & Hypothesis Testing Engines
+scipy>=1.13.0
+statsmodels>=0.14.0
+
+# Document Generation & Spreadsheet I/O
+openpyxl>=3.1.2
+python-docx>=1.1.0
+
+# Quality Assurance & Test Harness
+pytest>=8.0.0
+pytest-cov>=5.0.0

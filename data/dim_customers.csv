@@ -1,0 +1,101 @@
+customer_id,customer_uid,customer_name,age,age_group,gender,city,state,region,signup_date
+1,CUST-001,Aarav Patel,58,51+,Male,Delhi,Delhi,North,2023-01-08
+2,CUST-002,Vivaan Mishra,25,18-25,Female,Lucknow,Uttar Pradesh,North,2023-01-15
+3,CUST-003,Aditya Nair,19,18-25,Male,Jaipur,Rajasthan,North,2023-01-22
+4,CUST-004,Vihaan Chatterjee,65,51+,Female,Chandigarh,Punjab,North,2023-01-29
+5,CUST-005,Arjun Das,35,26-35,Male,Bengaluru,Karnataka,South,2023-02-05
+6,CUST-006,Sai Jain,33,26-35,Female,Chennai,Tamil Nadu,South,2023-02-12
+7,CUST-007,Reyansh Verma,32,26-35,Male,Hyderabad,Telangana,South,2023-02-19
+8,CUST-008,Aayan Singh,26,26-35,Female,Kochi,Kerala,South,2023-02-26
+9,CUST-009,Krishna Joshi,65,51+,Male,Mumbai,Maharashtra,West,2023-03-05
+10,CUST-010,Ishan Rao,24,18-25,Female,Pune,Maharashtra,West,2023-03-12
+11,CUST-011,Shaurya Banerjee,61,51+,Male,Ahmedabad,Gujarat,West,2023-03-19
+12,CUST-012,Atharv Mehta,65,51+,Female,Surat,Gujarat,West,2023-03-26
+13,CUST-013,Ananya Agarwal,52,51+,Male,Kolkata,West Bengal,East,2023-04-02
+14,CUST-014,Diya Gupta,23,18-25,Female,  Patna  ,Bihar,East,2023-04-09
+15,CUST-015,Sanvi Kumar,55,51+,Male,Bhubaneswar,Odisha,East,2023-04-16
+16,CUST-016,Aadhya Yadav,45,36-50,Female,Bhopal,Madhya Pradesh,Central,2023-04-23
+17,CUST-017,Kiara Reddy,20,18-25,Male,Indore,Madhya Pradesh,Central,2023-04-30
+18,CUST-018,Pari Mukherjee,19,18-25,Female,Noida,Uttar Pradesh,North,2023-05-07
+19,CUST-019,Anika Shah,23,18-25,Male,Delhi,Delhi,North,2023-05-14
+20,CUST-020,Navya Sharma,31,26-35,Female,Lucknow,Uttar Pradesh,North,2023-05-21
+21,CUST-021,Myra Patel,32,26-35,Male,Jaipur,Rajasthan,North,2023-05-28
+22,CUST-022,Riya Mishra,50,36-50,Female,Chandigarh,Punjab,North,2023-06-04
+23,CUST-023,Alisha Nair,56,51+,Male,Bengaluru,Karnataka,South,2023-06-11
+24,CUST-024,Tanvi Chatterjee,19,18-25,Female,Chennai,Tamil Nadu,South,2023-06-18
+25,CUST-025,Priya Das,53,51+,Male,Hyderabad,Telangana,South,2023-06-25
+26,CUST-026,Sneha Jain,30,26-35,Female,Kochi,Kerala,South,2023-07-02
+27,CUST-027,Pooja Verma,63,51+,Male,Mumbai,Maharashtra,West,2023-07-09
+28,CUST-028,Neha Singh,59,51+,Female,Pune,Maharashtra,West,2023-07-16
+29,CUST-029,Rohan Joshi,62,51+,Male,Ahmedabad,Gujarat,West,2023-07-23
+30,CUST-030,Amit Rao,52,51+,Female,Surat,Gujarat,West,2023-07-30
+31,CUST-031,Rahul Banerjee,44,36-50,Male,Kolkata,West Bengal,East,2023-08-06
+32,CUST-032,Vikas Mehta,32,26-35,Female,Patna,Bihar,East,2023-08-13
+33,CUST-033,Rajesh Agarwal,46,36-50,Male,Bhubaneswar,Odisha,East,2023-08-20
+34,CUST-034,Suresh Gupta,55,51+,Female,Bhopal,Madhya Pradesh,Central,2023-08-27
+35,CUST-035,Deepa Kumar,35,26-35,Male,Indore,Madhya Pradesh,Central,2023-09-03
+36,CUST-036,Meera Yadav,18,18-25,Female,Noida,Uttar Pradesh,North,2023-09-10
+37,CUST-037,Swati Reddy,66,51+,Male,Delhi,Delhi,North,2023-09-17
+38,CUST-038,Kavita Mukherjee,28,26-35,Female,Lucknow,Uttar Pradesh,North,2023-09-24
+39,CUST-039,Sunita Shah,62,51+,Male,Jaipur,Rajasthan,North,2023-10-01
+40,CUST-040,Manoj Sharma,45,36-50,Female,Chandigarh,Punjab,North,2023-10-08
+41,CUST-041,Gaurav Patel,39,36-50,Male,Bengaluru,Karnataka,South,2023-10-15
+42,CUST-042,Naveen Mishra,35,26-35,Female,  Chennai  ,Tamil Nadu,South,2023-10-22
+43,CUST-043,Abhishek Nair,27,26-35,Male,Hyderabad,Telangana,South,2023-10-29
+44,CUST-044,Pankaj Chatterjee,31,26-35,Female,Kochi,Kerala,South,2023-11-05
+45,CUST-045,Deepak Das,66,51+,Male,Mumbai,Maharashtra,West,2023-11-12
+46,CUST-046,Ritu Jain,39,36-50,Female,Pune,Maharashtra,West,2023-11-19
+47,CUST-047,Shweta Verma,24,18-25,Male,Ahmedabad,Gujarat,West,2023-11-26
+48,CUST-048,Preeti Singh,23,18-25,Female,Surat,Gujarat,West,2023-12-03
+49,CUST-049,Komal Joshi,42,36-50,Male,Kolkata,West Bengal,East,2023-12-10
+50,CUST-050,Divya Rao,24,18-25,Female,Patna,Bihar,East,2023-12-17
+51,CUST-051,Aarav Banerjee,40,36-50,Male,Bhubaneswar,Odisha,East,2023-12-24
+52,CUST-052,Vivaan Mehta,40,36-50,Female,Bhopal,Madhya Pradesh,Central,2023-12-31
+53,CUST-053,Aditya Agarwal,56,51+,Male,Indore,Madhya Pradesh,Central,2024-01-07
+54,CUST-054,Vihaan Gupta,34,26-35,Female,Noida,Uttar Pradesh,North,2024-01-14
+55,CUST-055,Arjun Kumar,20,18-25,Male,Delhi,Delhi,North,2024-01-21
+56,CUST-056,Sai Yadav,64,51+,Female,Lucknow,Uttar Pradesh,North,2024-01-28
+57,CUST-057,Reyansh Reddy,47,36-50,Male,Jaipur,Rajasthan,North,2024-02-04
+58,CUST-058,Aayan Mukherjee,52,51+,Female,Chandigarh,Punjab,North,2024-02-11
+59,CUST-059,Krishna Shah,25,18-25,Male,Bengaluru,Karnataka,South,2024-02-18
+60,CUST-060,Ishan Sharma,42,36-50,Female,Chennai,Tamil Nadu,South,2024-02-25
+61,CUST-061,Shaurya Patel,23,18-25,Male,Hyderabad,Telangana,South,2024-03-03
+62,CUST-062,Atharv Mishra,53,51+,Female,Kochi,Kerala,South,2024-03-10
+63,CUST-063,Ananya Nair,36,36-50,Male,Mumbai,Maharashtra,West,2024-03-17
+64,CUST-064,Diya Chatterjee,58,51+,Female,Pune,Maharashtra,West,2024-03-24
+65,CUST-065,Sanvi Das,57,51+,Male,Ahmedabad,Gujarat,West,2024-03-31
+66,CUST-066,Aadhya Jain,41,36-50,Female,Surat,Gujarat,West,2024-04-07
+67,CUST-067,Kiara Verma,54,51+,Male,Kolkata,West Bengal,East,2024-04-14
+68,CUST-068,Pari Singh,30,26-35,Female,Patna,Bihar,East,2024-04-21
+69,CUST-069,Anika Joshi,63,51+,Male,Bhubaneswar,Odisha,East,2024-04-28
+70,CUST-070,Navya Rao,22,18-25,Female,Bhopal,Madhya Pradesh,Central,2024-05-05
+71,CUST-071,Myra Banerjee,20,18-25,Male,Indore,Madhya Pradesh,Central,2024-05-12
+72,CUST-072,Riya Mehta,60,51+,Female,Noida,Uttar Pradesh,North,2024-05-19
+73,CUST-073,Alisha Agarwal,32,26-35,Male,Delhi,Delhi,North,2024-05-26
+74,CUST-074,Tanvi Gupta,67,51+,Female,Lucknow,Uttar Pradesh,North,2024-06-02
+75,CUST-075,Priya Kumar,36,36-50,Male,Jaipur,Rajasthan,North,2024-06-09
+76,CUST-076,Sneha Yadav,23,18-25,Female,Chandigarh,Punjab,North,2024-06-16
+77,CUST-077,Pooja Reddy,32,26-35,Male,Bengaluru,Karnataka,South,2024-06-23
+78,CUST-078,Neha Mukherjee,24,18-25,Female,Chennai,Tamil Nadu,South,2024-06-30
+79,CUST-079,Rohan Shah,42,36-50,Male,Hyderabad,Telangana,South,2024-07-07
+80,CUST-080,Amit Sharma,35,26-35,Female,Kochi,Kerala,South,2024-07-14
+81,CUST-081,Rahul Patel,47,36-50,Male,Mumbai,Maharashtra,West,2024-07-21
+82,CUST-082,Vikas Mishra,58,51+,Female,Pune,Maharashtra,West,2024-07-28
+83,CUST-083,Rajesh Nair,41,36-50,Male,Ahmedabad,Gujarat,West,2024-08-04
+84,CUST-084,Suresh Chatterjee,28,26-35,Female,Surat,Gujarat,West,2024-08-11
+85,CUST-085,Deepa Das,41,36-50,Male,Kolkata,West Bengal,East,2024-08-18
+86,CUST-086,Meera Jain,40,36-50,Female,Patna,Bihar,East,2024-08-25
+87,CUST-087,Swati Verma,31,26-35,Male,Bhubaneswar,Odisha,East,2024-09-01
+88,CUST-088,Kavita Singh,60,51+,Female,Bhopal,Madhya Pradesh,Central,2024-09-08
+89,CUST-089,Sunita Joshi,35,26-35,Male,Indore,Madhya Pradesh,Central,2024-09-15
+90,CUST-090,Manoj Rao,62,51+,Female,Noida,Uttar Pradesh,North,2024-09-22
+91,CUST-091,Gaurav Banerjee,61,51+,Male,Delhi,Delhi,North,2024-09-29
+92,CUST-092,Naveen Mehta,59,51+,Female,Lucknow,Uttar Pradesh,North,2024-10-06
+93,CUST-093,Abhishek Agarwal,22,18-25,Male,Jaipur,Rajasthan,North,2023-01-02
+94,CUST-094,Pankaj Gupta,56,51+,Female,Chandigarh,Punjab,North,2023-01-09
+95,CUST-095,Deepak Kumar,58,51+,Male,Bengaluru,Karnataka,South,2023-01-16
+96,CUST-096,Ritu Yadav,28,26-35,Female,Chennai,Tamil Nadu,South,2023-01-23
+97,CUST-097,Shweta Reddy,52,51+,Male,Hyderabad,Telangana,South,2023-01-30
+98,CUST-098,Preeti Mukherjee,64,51+,Female,Kochi,Kerala,South,2023-02-06
+99,CUST-099,Komal Shah,33,26-35,Male,Mumbai,Maharashtra,West,2023-02-13
+100,CUST-100,Divya Sharma,28,26-35,Female,Pune,Maharashtra,West,2023-02-20
